@@ -39,6 +39,7 @@ a:hover{
     margin-bottom: 25px;
     text-align: center;
 }
+
 h1{
     font-size: 35px;
     font-weight: bold;
@@ -63,6 +64,10 @@ p{
     margin-top: 20px;
     text-align: center;
     text-decoration: initial;
+<<<<<<< HEAD
+=======
+    text-shadow: white 3px 3px 5px;
+>>>>>>> 92440a1a794c9d04129088292a861522ac261a19
     font-size: 24px;
     color: #f3f3f3;
     text-decoration-style: solid green;
@@ -84,4 +89,19 @@ footer{
 }
 ul li{
     margin-top: 5px;
+}
+.a{
+    margin: 5px;
+    padding: 10px;
+    border-radius: 3rem;
+    font-size: 30px;
+    color:black;
+}
+a{text-decoration: none;
+    color: white;
+    padding: 7px;
+}
+a:hover{
+    border-radius: 3rem;
+    padding: 12px;
 }
