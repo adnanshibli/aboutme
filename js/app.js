@@ -8,18 +8,10 @@
 
 
 
-<<<<<<< HEAD
-alert('Hello, we are now going on a guess game to know about me');
-var Name = prompt('Type in your name');
-alert("Hello " + Name);
-alert('now we will start our game ' + Name +' please answer by yes or no')
-=======
 // alert('Hello, we are now going on a guess game to know about me');
-// var Name = prompt("Type in your name");
+// var Name = prompt('Type in your name');
 // alert("Hello " + Name);
 // alert('now we will start our game ' + Name +' please answer by yes or no')
->>>>>>> 92440a1a794c9d04129088292a861522ac261a19
-
 // function qus1(){
 //     var qustion1 = prompt("Am I a Civil Engineer");
 //     qustion1 = qustion1.toLowerCase();
@@ -149,21 +141,6 @@ alert('now we will start our game ' + Name +' please answer by yes or no')
 //                 break mainLoop ; 
 //             }
            
-<<<<<<< HEAD
-        }
-        if (y == 6){
-            alert(`Your attempts have been finished ! the aswers is ${myseires}`)
-        }
-        else {
-            alert ("wrong answer .... try again")
-        }
-    
-    }
-    }
-    qustion7();
-    alert("Now your Grade is " + yourGrade + " out of 7")
-    alert("Thank you for your time " + Name);
-=======
 //         }
 //         if (y == 6){
 //             alert("Your attempts have been finished ! the aswers is " + myseires)
@@ -175,7 +152,5 @@ alert('now we will start our game ' + Name +' please answer by yes or no')
 //     }
 //     }
 //     qustion7();
-//     alert("Now your Grade is " + yourGrade + " out of 7")
+// //     alert("Now your Grade is " + yourGrade + " out of 7")
 //     alert("Thank you for your time " + yourName);
->>>>>>> 92440a1a794c9d04129088292a861522ac261a19
-    
