@@ -8,7 +8,7 @@ var asd1,
 
 
 
-alert('Hello, we are now going on a guess game to know about me');
+alert('Hello,  we are now going on a guess game to know about me');
 var Name = prompt('Type in your name');
 alert("Hello " + Name);
 alert('now we will start our game ' + Name +' please answer by yes or no')
